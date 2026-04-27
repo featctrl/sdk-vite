@@ -28,7 +28,7 @@ Peer dependencies:
 npm install @featctrl/typescript vite
 ```
 
-Requires **Node.js ≥ 22**.
+Requires **Node.js >= 22 < 25**.
 
 ---
 
