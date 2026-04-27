@@ -1,6 +1,6 @@
 {
   "name": "@featctrl/vite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "FeatCtrl Vite plugin",
   "repository": {
     "type": "git",
